@@ -1,0 +1,41 @@
+body{
+    background-color: LightCoral;  
+}
+
+button{
+    background-color: transparent;
+    height: 1.5cm;
+    width: 3cm;
+    border-radius: 2cm;
+    border-width: 5px;
+    border: 5px solid rgb(71, 71, 71);
+    border-style: solid ;
+    margin-top: 5px;
+    
+}
+
+button:hover {
+    background-color: rgb(255, 255, 255);
+
+}
+
+#container{
+    background-color: transparent;
+    border: 5px solid rgb(71, 71, 71);
+    height: 10cm;
+    width: 20cm;
+    border-radius: 5cm;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+#quotetext {
+    margin: 55px 55px;
+    font-size: 26px;
+    color:rgb(0, 0, 0);
+    
+}
+
+
+
